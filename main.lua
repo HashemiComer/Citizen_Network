@@ -1,3 +1,3 @@
 echo
 echo
-mkdir test
+echo
