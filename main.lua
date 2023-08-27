@@ -1,3 +1,4 @@
-echo a
-echo b
+echo
+echo
+echo
 mkdir sssss
