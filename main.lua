@@ -1,4 +1,4 @@
 echo
 echo
 echo
-mkdir sssss
+mkdir uuuuuu
