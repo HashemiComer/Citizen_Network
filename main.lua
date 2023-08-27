@@ -1,3 +1,3 @@
 echo a
-ONONE
+echo b
 mkdir sssss
