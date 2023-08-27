@@ -1,3 +1,3 @@
-OFF
+echo a
 ONONE
 mkdir sssss
